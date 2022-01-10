@@ -2,7 +2,7 @@
 - 👀 I’m interested in lua
 - 🌱 I’m currently learning your mom
 - 💞️ I’m looking to collaborate on moon
-- 📫 How to reach me Parellel X#0001
+- 📫 How to reach me pare#5588
 
 <!---
 ParellelSex/ParellelSex is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
